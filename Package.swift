@@ -3,6 +3,6 @@
 import PackageDescription
 
 let package = Package(
-    name: "CLibdill2",
+    name: "CLibdill",
     pkgConfig: "libdill"
 )
