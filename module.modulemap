@@ -1,0 +1,5 @@
+module CLibdill [system] {
+  header "/usr/include/libdill.h"
+  link "libdill"
+  export *
+}
